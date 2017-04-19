@@ -44,6 +44,8 @@ Thank you to my beautiful wife for putting up with my late nights while I worked
 [@mycurial](https://twitter.com/myrcurial) for helping me get in the security industry and ...alot more
 
 ###CHANGELOG
+v0.2.1
+- Testing
 
 v0.2
 - Added new payload that grabs the username and computername and sends it to a listener
